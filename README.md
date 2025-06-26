@@ -62,7 +62,7 @@ Analyze department-level KPIs, such as treatment duration, patient turnover, and
 
 
 
-![image alt](https://github.com/Amitkmr948/Hospital-data-analysis-dashboard/blob/6349daa1502927da45c6aa6c9cfe720463a38ff0/assets/Patient_page.png)
+![image alt](https://github.com/Amitkmr948/Hospital-data-analysis-dashboard/blob/6349daa1502927da45c6aa6c9cfe720463a38ff0/assets/Home_page.png)
 
 ![image alt](https://github.com/Amitkmr948/Hospital-data-analysis-dashboard/blob/6349daa1502927da45c6aa6c9cfe720463a38ff0/assets/Overview_page.png)
 
@@ -74,4 +74,42 @@ Analyze department-level KPIs, such as treatment duration, patient turnover, and
 
 ![image alt](https://github.com/Amitkmr948/Hospital-data-analysis-dashboard/blob/6349daa1502927da45c6aa6c9cfe720463a38ff0/assets/Finance_page.png)
 
+## Getting Started
+1. Clone or download this repository
 
+2. Open the .pbix file using Power BI Desktop
+
+3. Connect your dataset or refresh the existing data
+
+4. Interact with filters, slicers, and charts to explore hospital insights
+
+## Future Enhancements
+
+-Integration with real-time hospital databases or APIs
+
+-Predictive analytics for bed demand, medicine shortages, etc.
+
+-Role-based dashboards for admins, doctors, and pharmacists
+
+-Automated alerts and notifications using Power BI service
+
+## Use Cases
+-> Hospital Administrators: Improve operational oversight
+
+-> Healthcare Analysts: Monitor KPIs and resource usage
+
+-> Medical Staff: Understand workload and allocation
+
+-> IT Teams: Use as a template for scalable data reporting
+
+## Contributions & Feedback
+Feel free to fork this repository, suggest improvements, or open issues.
+Contributions, feedback, and ideas are highly appreciated!
+
+
+
+        
+
+
+        
+ 
