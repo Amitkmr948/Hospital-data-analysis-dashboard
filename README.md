@@ -63,3 +63,15 @@ Analyze department-level KPIs, such as treatment duration, patient turnover, and
 
 
 ![image alt](https://github.com/Amitkmr948/Hospital-data-analysis-dashboard/blob/6349daa1502927da45c6aa6c9cfe720463a38ff0/assets/Patient_page.png)
+
+![image alt](https://github.com/Amitkmr948/Hospital-data-analysis-dashboard/blob/6349daa1502927da45c6aa6c9cfe720463a38ff0/assets/Overview_page.png)
+
+![image alt](https://github.com/Amitkmr948/Hospital-data-analysis-dashboard/blob/6349daa1502927da45c6aa6c9cfe720463a38ff0/assets/Patient_page.png)
+
+![image alt](https://github.com/Amitkmr948/Hospital-data-analysis-dashboard/blob/6349daa1502927da45c6aa6c9cfe720463a38ff0/assets/Doctor_page.png)
+
+![image alt](https://github.com/Amitkmr948/Hospital-data-analysis-dashboard/blob/6349daa1502927da45c6aa6c9cfe720463a38ff0/assets/Info_page.png)
+
+![image alt](https://github.com/Amitkmr948/Hospital-data-analysis-dashboard/blob/6349daa1502927da45c6aa6c9cfe720463a38ff0/assets/Finance_page.png)
+
+
