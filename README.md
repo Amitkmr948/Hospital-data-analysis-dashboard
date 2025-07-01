@@ -1,7 +1,7 @@
 
 # Hospital-Data-Analysis-Dashboard
 
-##### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYzgwZGEwZjAtNjEyMC00OGUwLWIwMWYtN2RjZDBkZTZhNjE4IiwidCI6Ijg0MWU5OTFmLTE3MzAtNDMzZi04MmJhLWVhNzg5NTAwNGZmYSJ9
+##### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYzgwZGEwZjAtNjEyMC00OGUwLWIwMWYtN2RjZDBkZTZhNjE4IiwidCI6Ijg0MWU5OTFmLTE3MzAtNDMzZi04MmJhLWVhNzg5NTAwNGZmYSJ9](https://app.powerbi.com/view?r=eyJrIjoiYzgwZGEwZjAtNjEyMC00OGUwLWIwMWYtN2RjZDBkZTZhNjE4IiwidCI6Ijg0MWU5OTFmLTE3MzAtNDMzZi04MmJhLWVhNzg5NTAwNGZmYSJ9&pageName=acbe57206416802a20ac
 
 
 ### This repository contains an interactive Hospital Management Dashboard built using Power BI, SQL, and Excel. It visualizes and analyzes comprehensive data related to hospital operations including patients, doctors, staff, medicines, beds, rooms, and more.
